@@ -1,1 +1,1 @@
-# Maquina_nao_responde_ping_na_rede
+correção para máquinas que não respondem ping conectadas na mesma rede.
